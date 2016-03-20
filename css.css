@@ -52,6 +52,8 @@
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 #nav li:first-child{
+  color: #bdc3c7;
+  font-weight: bold;
   background-color: #FFFFFF;
   color: black;
 }
