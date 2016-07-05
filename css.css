@@ -8,6 +8,7 @@
    line-height: 2em;
    margin: 60px auto;
 }
+
 .navig:before, .navig:after{
   z-index: -1;
   position: absolute;
@@ -27,10 +28,9 @@
   right: 10px;
   left: auto;
 }
-.jumbotron{
-
+.link{
+  color: #84b3cc;
 }
-
 #circ{
   float: left;
   vertical-align: middle;
