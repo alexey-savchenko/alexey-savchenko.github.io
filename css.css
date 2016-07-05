@@ -41,27 +41,32 @@
   background-color: #FFFFFF;
   box-shadow: 5px 5px 1px rgba(125, 125, 125, 0.7);
 }
+
+#nav li:first-child{
+  color: black;
+  background-color: #84c5cc;
+  border: 1px solid grey;
+}
+
 #nav li{
+  font-size: 24px;
   display: inline-block;
   margin-left: 75px;
   vertical-align: middle;
-  color: #FFFFFF;
   padding: 10px 20px;
   text-decoration: none;
   border-radius: 4px 4px 4px 4px;
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  color: white important;
+  font-family: "Helvetica";
+  font-weight: bolder;
+  font-style: italic;
 }
-#nav li:first-child{
-  color: #bdc3c7;
-  font-weight: bold;
-  background-color: #FFFFFF;
-  color: black;
-}
+
 #nav li:hover{
   box-shadow: 0 5px 10px rgba(134, 161, 134, 0.7);
   text-decoration: none;
-
 }
+
 #content{
    position: relative;
    height: 100%;
