@@ -7,6 +7,13 @@
     color: rgba(0, 0, 0, 0.5);
     line-height: 2em;
     margin: 60px auto;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.data-scroll-nav:hover {
+    border: 1px solid black;
 }
 
 .navig:before, .navig:after {
@@ -30,17 +37,6 @@
 
 .link {
     color: #84b3cc;
-}
-
-#circ {
-    float: left;
-    vertical-align: middle;
-    display: inline;
-    width: 20px;
-    height: 20px;
-    border-radius: 10px;
-    background-color: #FFFFFF;
-    box-shadow: 5px 5px 1px rgba(125, 125, 125, 0.7);
 }
 
 #nav li:first-child {
