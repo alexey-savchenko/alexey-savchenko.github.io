@@ -14,8 +14,12 @@ body{
     overflow: hidden;
 }
 .content{
-    padding-top: 100px;
+    padding-top: 40px;
     margin-top: 100px;
+}
+.content-1st-screen{
+
+    margin-top: 50px;
 }
 #c{
     color: gold;
@@ -29,16 +33,12 @@ body{
 #unity{
     color: #2fe2b2;
 }
-.titlediv{
-    padding-right: 50%;
-}
 a:hover{
     text-decoration: none;
 }
 .section{
     height: 100vh;
     width: 100%;
-    lis
 }
 .img{
     max-height: 300px;
@@ -46,7 +46,7 @@ a:hover{
 }
 #footer{
     padding: 15px;
-    margin-top: 200px;
+    margin-top: 50px;
     border: solid 2px;
     border-color: #8c8c8c;
 }
@@ -63,7 +63,10 @@ a:hover{
 .contacts a{
     display: block;
 }
-
+.iphone-wrap{
+    float: right;
+    width: 200px;
+}
 
 
 
