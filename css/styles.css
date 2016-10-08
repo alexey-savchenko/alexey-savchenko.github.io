@@ -14,12 +14,14 @@ body{
     overflow: hidden;
 }
 .content{
-    padding-top: 40px;
+    padding-top: 200px;
     margin-top: 100px;
 }
 .content-1st-screen{
-
-    margin-top: 50px;
+    margin-top: 150px;
+}
+#typed-wrap{
+    padding: 20px 0 0 20px;
 }
 #c{
     color: gold;
@@ -29,6 +31,13 @@ body{
 }
 #swift{
     color: #d9534f;
+}
+.carousel-item img{
+    margin-left: 8%;
+}
+
+#shooter-img > img{
+    height: 300px;
 }
 #unity{
     color: #2fe2b2;
@@ -40,10 +49,7 @@ a:hover{
     height: 100vh;
     width: 100%;
 }
-.img{
-    max-height: 300px;
-    max-width: 350px;
-}
+
 #footer{
     padding: 15px;
     margin-top: 50px;
