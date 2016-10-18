@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67549124-0dbe-440a-acab-f94f1941961f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Email.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Twitter.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/header-bg.png" afterPath="$PROJECT_DIR$/img/header-bg.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="caesarus.github.io.iws" />
@@ -27,8 +29,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+            <state relative-caret-position="360">
+              <caret line="24" column="125" selection-start-line="24" selection-start-column="125" selection-end-line="24" selection-end-column="125" />
               <folding />
             </state>
           </provider>
@@ -52,8 +54,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -161,12 +163,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1476768391945</updated>
-      <workItem from="1476768393437" duration="1838000" />
+      <workItem from="1476768393437" duration="2087000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1838000" />
+    <option name="totallyTimeSpent" value="2087000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="829" extended-state="0" />
@@ -216,8 +218,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        <state relative-caret-position="360">
+          <caret line="24" column="125" selection-start-line="24" selection-start-column="125" selection-end-line="24" selection-end-column="125" />
           <folding />
         </state>
       </provider>
