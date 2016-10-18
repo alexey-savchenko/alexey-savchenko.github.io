@@ -1,0 +1,127 @@
+*{
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    -webkit-padding-start: 0;
+}
+body{
+    line-height: 1.875;
+    display: table;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    padding-left: 30%;
+    table-layout: fixed;
+}
+
+
+.header{
+    line-height: 1.625em;
+    position: fixed;
+    z-index: 1;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    width: 30%;
+    height: 100%;
+    background-image: url("/another-update/img/header-bg.png");
+    background-size: cover;
+    display: block;
+    color: white;
+    text-align: center;
+}
+.section-middle{
+
+    padding-top: 240px;
+}
+.section-bottom{
+    margin-top: 30%;
+}
+.logo{
+    position: relative;
+    display: block;
+    overflow: hidden;
+    width: 128px;
+    height: 128px;
+    margin: auto;
+}
+.circle{
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
+    border-radius:50%;
+}
+.logo ~ #title {
+    margin-top: 20px;
+}
+#title{
+    font-size: 24px;
+    font-weight: 500;
+}
+#description{
+    padding: 0 15px 0 15px;
+    margin-top: 1.5em;
+}
+.social-widget{
+    padding-top: 1.5em;
+}
+.social-widget a {
+    font-size: 14px;
+    line-height: 30px;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 0 3px 6px;
+    padding: 0;
+    text-decoration: none;
+    color: inherit;
+    background: transparent;
+}
+.icon-facebook:hover{
+    background: #3b5998;
+}
+.icon-vk:hover{
+    background: #45668e;
+}
+.icon-linkedin:hover{
+    background: #007bb6;
+}
+.icon-github:hover{
+    background: #9748a8;
+}
+.icon-email:hover{
+    background: firebrick;
+}
+.icon-twitter:hover{
+    background: #00aced;
+}
+
+
+.main{
+    position: relative;
+    display: table-row;
+    height: 100%;
+}
+.content-wrapper{
+    max-width: 660px;
+    margin: auto;
+    padding: 0 40px 0 1.875em;
+}
+.index article {
+    margin-top: 3em;
+    border-bottom-width: 1px;
+    border-bottom-style: solid
+}
+.carousel-item img{
+    margin: 0 auto;
+}
+.container-fluid{
+    margin-top: 1.875em;
+    margin-bottom: 1.875em;
+}
+.game-description{
+    padding-left: 20px;
+}
